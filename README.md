@@ -3,7 +3,7 @@
 
 Tags : eclectic retro mishmash fusion retro-futurism anachronism
 
-![Front View](/photos/Front.jpg "Front View")
+![Front View](photos/Front.jpg "Front View")
 
 
 ![Side View](/photos/Side.jpg "Side View")
