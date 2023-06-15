@@ -4,9 +4,17 @@
 Tags : eclectic retro mishmash fusion retro-futurism anachronism
 
 ![Front View](https://github.com/anthonylhill/anthonylhill.github.io/blob/main/photos/Front.jpg)
+
+
 ![Side View](https://github.com/anthonylhill/anthonylhill.github.io/blob/main/photos/Side.jpg)
+
+
 ![CPU Card Only](https://github.com/anthonylhill/anthonylhill.github.io/blob/main/photos/CPUonly.jpg)
+
+
 ![Bare PCB](https://github.com/anthonylhill/anthonylhill.github.io/blob/main/photos/PCB.jpg)
+
+
 <table>
     <tr>
         <td>Foo</td><td>bar</td>
