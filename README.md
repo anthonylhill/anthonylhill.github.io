@@ -1,5 +1,5 @@
-# anthonylhill.github.io
- Pi Zero Adapter for Lee Hart's Membership Card
+# Pi Zero Adapter for Lee Hart's Membership Card
+## anthonylhill.github.io
 
 Tags : eclectic retro mishmash fusion retro-futurism anachronism
 
@@ -23,7 +23,7 @@ Having said all that, after a few months of usage I felt like there was a little
 
 So I’ve designed and built a PCB Raspberry PiZero W loader card that’s format compatible with the MC and  inserts in the middle of the Membership card’s two card stack.  That maintains the look and feel of the MC while allowing just thin power cable as the only hookup to the MC.  The built-in Pi Zero contains my complete 1802 development environment ( editor & A18 & source files ) all interface with a few simple scripts to the 1802 itself. 
 
-*Features*
+## Features
 <ol>
 <li>Program loading via override of the MC front panel switches 
 <li>Serial console interface between PiZero and 1802 via Q & EF3 to Pi UART GPIO pins 
