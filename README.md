@@ -31,7 +31,7 @@ So I’ve designed and built a PCB Raspberry PiZero W loader card that’s forma
 <li>All-in-one form factor (requires extension ring to fit into Altoids tin)</li>
 <li>Works with either front panel type or without any front panel</li>
 <li>3.3v to 5v level conversion as needed</li>
-<li>3.3v to 5v level conversion as needed</li>
+<li> Ground connection post for scope or logic probe.
 </ol>
 
 
