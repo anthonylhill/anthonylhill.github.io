@@ -1,27 +1,20 @@
 # PiZero Adapter for Lee Hart's Membership Card
-### anthonylhill.github.io
 
-Tags : eclectic retro mishmash fusion retro-futurism anachronism
+There is a lot to like about [Lee Hart’s Membership Card](http://www.sunrise-ev.com/1802.htm "Click this link") (MC). It comes in a compact attractive form factor supporting a 4 MHz 1802, up to 64K of RAM, serial I/O, and lots of switches and blinkenzee lights.  Supplied in kit format, it’s a fun build with an amazing amount of documentation, not to mention Lee Hart’s personal support to help you get things running if you have trouble.
 
 ### Front View
 ![Front View](photos/Front.jpg)
 
+Having said all that, after a few months of usage I felt like there was a little more needed if I was going to do any serious programming with the MC.  Toggling in programs with the front panel switches starts out fun but gets old fast.  Programming EEPROMs is a slow process and they cut into the 64K of available RAM.  Adding serial program download capability to a monitor program is a viable option but requires either an EPROM or a fairly long manual program load via switches.   The earlier MC models had a DB25 connector that could be hooked up to an old school printer port (or GPIO in a microcontroller) but that usually meant an ugly ribbon cable limiting distance and cluttering up your workspace.  And the release of the new MC front panel card meant the DB25 went away in favour of six 7 segment LED’s.
+
 ### Side View
 ![Side View](photos/Side.jpg "Side View")
 
-### Running Without Front Panel
-![CPU Card Only](photos/CPUonly.jpg "CPU Card Only")
-
-### Bare PCB
-![Bare PCB](photos/PCB.jpg "Bare PCB")
-
-
-
-There is a lot to like about [Lee Hart’s Membership Card](http://www.sunrise-ev.com/1802.htm "Click this link") (MC). It comes in a compact attractive form factor supporting a 4 MHz 1802, up to 64K of RAM, serial I/O, and lots of switches and blinkenzee lights.  Supplied in kit format, it’s a fun build with an amazing amount of documentation, not to mention Lee Hart’s personal support to help you get things running if you have trouble.
-
-Having said all that, after a few months of usage I felt like there was a little more needed if I was going to do any serious programming with the MC.  Toggling in programs with the front panel switches starts out fun but gets old fast.  Programming EEPROMs is a slow process and they cut into the 64K of available RAM.  Adding serial program download capability to a monitor program is a viable option but requires either an EPROM or a fairly long manual program load via switches.   The earlier MC models had a DB25 connector that could be hooked up to an old school printer port (or GPIO in a microcontroller) but that usually meant an ugly ribbon cable limiting distance and cluttering up your workspace.  And the release of the new MC front panel card meant the DB25 went away in favour of six 7 segment LED’s.
 
 So I’ve designed and built a PCB Raspberry PiZero W loader card that’s format compatible with the MC and  inserts in the middle of the Membership card’s two card stack.  That maintains the look and feel of the MC while allowing just thin power cable as the only hookup to the MC.  The built-in Pi Zero contains my complete 1802 development environment ( editor & A18 & source files ) all interface with a few simple scripts to the 1802 itself. 
+
+### Running Without Front Panel
+![CPU Card Only](photos/CPUonly.jpg "CPU Card Only")
 
 ## Features
 <ol>
@@ -42,9 +35,11 @@ So I’ve designed and built a PCB Raspberry PiZero W loader card that’s forma
 </ol>
 
 
-### anthonylhill.github.io
+### Bare PCB
+![Bare PCB](photos/PCB.jpg "Bare PCB")
 
-Tags : eclectic retro mishmash fusion retro-futurism anachronism
+
+### anthonylhill.github.io
 
 <table> 
     <tr>
