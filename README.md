@@ -3,7 +3,7 @@
 
 Tags : eclectic retro mishmash fusion retro-futurism anachronism
 
-![kobayashi maru](https://github.com/anthonylhill/anthonylhill.github.io/blob/main/photos/kobayashimaru.jpg)
+[kobayashi maru](https://github.com/anthonylhill/anthonylhill.github.io/blob/main/photos/kobayashimaru.jpg)
 
 <table>
     <tr>
