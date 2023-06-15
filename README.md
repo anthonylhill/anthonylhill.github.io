@@ -6,7 +6,7 @@ Tags : eclectic retro mishmash fusion retro-futurism anachronism
 ### Front View
 ![Front View](photos/Front.jpg)
 
-### [Side View
+### Side View
 ![Side View](photos/Side.jpg "Side View")
 
 ### CPU Card Only
