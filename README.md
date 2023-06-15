@@ -9,7 +9,7 @@ Tags : eclectic retro mishmash fusion retro-futurism anachronism
 ### Side View
 ![Side View](photos/Side.jpg "Side View")
 
-### CPU Card Only
+### Running Without Front Panel
 ![CPU Card Only](photos/CPUonly.jpg "CPU Card Only")
 
 ### Bare PCB
