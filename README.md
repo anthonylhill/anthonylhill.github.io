@@ -3,19 +3,20 @@
 
 Tags : eclectic retro mishmash fusion retro-futurism anachronism
 
-![Front View](photos/Front.jpg "Front View")
+### Front View
+![Front View](photos/Front.jpg)
+
+### [Side View
+![Side View](photos/Side.jpg "Side View")
+
+### CPU Card Only
+![CPU Card Only](photos/CPUonly.jpg "CPU Card Only")
+
+### Bare PCB
+![Bare PCB](photos/PCB.jpg "Bare PCB")
 
 
-![Side View](/photos/Side.jpg "Side View")
-
-
-![CPU Card Only](/photos/CPUonly.jpg "CPU Card Only")
-
-
-![Bare PCB](/photos/PCB.jpg "Bare PCB")
-
-
-<table>
+<table> 
     <tr>
         <td>Foo</td><td>bar</td>
     </tr>
