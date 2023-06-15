@@ -22,10 +22,6 @@ Having said all that, after a few months of usage I felt like there was a little
 So I’ve designed and built a PCB Raspberry PiZero W loader card that’s format compatible with the MC and  inserts in the middle of the Membership card’s two card stack.  That maintains the look and feel of the MC while allowing just thin power cable as the only hookup to the MC.  The built-in Pi Zero contains my complete 1802 development environment ( editor & A18 & source files ) all interface with a few simple scripts to the 1802 itself. 
 Features
 <ol>
-<li>Bird</li>
-<li>McHale</li>
-<li>Parish</li>
-</ol>
 <li>	automation of the MC front panel switches (except Write Protect) for program loading or other high speed intercessor communications between the Pi and 1802.</li>
 <li>	serial console via Q & EF3 to Pi UART pins </li>
 <li>	able to read parallel output from 1802 to LEDs on front panel - useful for debugging and/or  high speed data exchange</li>
