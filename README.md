@@ -18,9 +18,12 @@ Tags : eclectic retro mishmash fusion retro-futurism anachronism
 </table>
 
 As this group’s members know, there is a lot to like about Lee Hart’s Membership Card (MC). It comes in a compact attractive form factor sporting up to 64K of RAM,  a 4 MHz 1802, serial I/O,  and  lots of switches and blinkenzee lights.  Supplied in kit format, it’s a fun build with an amazing amount of documentation, not to mention Lee Hart’s personal support to help you get things running if you have trouble.
+
 Having said all that, after a few months of usage I felt like there was a little more needed if I was going to do any serious programming with the MC.  Toggling in programs with the front panel switches starts out fun but gets old fast.  Programming EEPROMs is a slow process and they cut into the 64K of available RAM.  Adding serial program download capability to a monitor program is a viable option but requires either an EPROM or a fairly long manual program load via switches.   The earlier MC models had a DB25 connector that could be hooked up to an old school printer port (or GPIO in a microcontroller) but that usually meant an ugly ribbon cable limiting distance and cluttering up your workspace.  And the release of the new MC front panel card meant the DB25 went away in favour of six 7 segment LED’s.
+
 So I’ve designed and built a PCB Raspberry PiZero W loader card that’s format compatible with the MC and  inserts in the middle of the Membership card’s two card stack.  That maintains the look and feel of the MC while allowing just thin power cable as the only hookup to the MC.  The built-in Pi Zero contains my complete 1802 development environment ( editor & A18 & source files ) all interface with a few simple scripts to the 1802 itself. 
-Features
+
+*Features*
 <ol>
 <li>Program loading via override of the MC front panel switches 
 <li>Serial console interface between PiZero and 1802 via Q & EF3 to Pi UART GPIO pins 
