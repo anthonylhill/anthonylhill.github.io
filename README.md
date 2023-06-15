@@ -6,13 +6,13 @@ Tags : eclectic retro mishmash fusion retro-futurism anachronism
 ![Front View](/photos/Front.jpg "Front View")
 
 
-![Side View](https://github.com/anthonylhill/anthonylhill.github.io/blob/main/photos/Side.jpg "Side View")
+![Side View](/photos/Side.jpg "Side View")
 
 
-![CPU Card Only](https://github.com/anthonylhill/anthonylhill.github.io/blob/main/photos/CPUonly.jpg "CPU Card Only")
+![CPU Card Only](/photos/CPUonly.jpg "CPU Card Only")
 
 
-![Bare PCB](https://github.com/anthonylhill/anthonylhill.github.io/blob/main/photos/PCB.jpg "Bare PCB")
+![Bare PCB](/photos/PCB.jpg "Bare PCB")
 
 
 <table>
