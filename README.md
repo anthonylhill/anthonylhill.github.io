@@ -17,20 +17,21 @@ So I’ve designed and built a PCB Raspberry PiZero W loader card that’s forma
 
 ## Features
 <ol>
-<li>Program loading via override of the MC front panel switches 
-<li>Serial console interface between PiZero and 1802 via Q & EF3 to Pi UART GPIO pins 
-<li>Able to read parallel output from 1802 to front panel - useful for debugging and/or high speed data PiZero/1802 exchange in conjunction with switch overrides
-<li>Intercepts the –INT signal from  the front panel when PiZero is in control so that front panel interrupts from LED mux circuit don't disrupt downloads before 1802 interrups can be disabled.
-<li>Prototype interconnect area with connections for three uncommitted PIZERO gpio pins and the 1802 ef1, ef2, & interrupt pins (plus 5v , 3.3v, & GND)
-<li>Jumpers to bypass both the MWR and RUN connections from front panel.
-<li>Form factor & connectors to fit into MC stack
-<li>WiFi, USB, HDMI, and composite video via PiZero connectors accessible 
-<li>PiZero utility written in C to load program code to 1802
-<li>Run  A18 for development and loading of code on PiZero
-<li>Power both MC and PiZero via single USB wall wart
-<li>All-in-one form factor (requires extension ring to fit into Altoids tin)
-<li>Works with either front panel type or without any front panel
-<li>3.3v to 5v level conversion as needed
+<li>Program loading via override of the MC front panel switches</li>
+<li>Serial console interface between PiZero and 1802 via Q & EF3 to Pi UART GPIO pins </li>
+<li>Able to read parallel output from 1802 to front panel - useful for debugging and/or high speed data PiZero/1802 exchange in conjunction with switch overrides</li>
+<li>Intercepts the –INT signal from  the front panel when PiZero is in control so that front panel interrupts from LED mux circuit don't disrupt downloads before 1802 interrups can be disabled.</li>
+<li>Prototype interconnect area with connections for three uncommitted PIZERO gpio pins and the 1802 ef1, ef2, & interrupt pins (plus 5v , 3.3v, & GND)</li>
+<li>Jumpers to bypass both the MWR and RUN connections from front panel.</li>
+<li>Form factor & connectors to fit into MC stack</li>
+<li>WiFi, USB, HDMI, and composite video via PiZero connectors accessible </li>
+<li>PiZero utility written in C to load program code to 1802</li>
+<li>Run  A18 for development and loading of code on PiZero</li>
+<li>Power both MC and PiZero via single USB wall wart</li>
+<li>All-in-one form factor (requires extension ring to fit into Altoids tin)</li>
+<li>Works with either front panel type or without any front panel</li>
+<li>3.3v to 5v level conversion as needed</li>
+<li>3.3v to 5v level conversion as needed</li>
 </ol>
 
 
