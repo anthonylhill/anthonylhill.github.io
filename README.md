@@ -16,17 +16,6 @@ Tags : eclectic retro mishmash fusion retro-futurism anachronism
 ![Bare PCB](photos/PCB.jpg "Bare PCB")
 
 
-<table> 
-    <tr>
-        <td>Foo</td><td>bar</td>
-    </tr>
-    <tr>
-        <td>Ddo</td><td>bfr</td>
-    </tr>
-    <tr>
-        <td>DUU</td><td>brtt</td>
-    </tr>
-</table>
 
 There is a lot to like about [Lee Hart’s Membership Card](http://www.sunrise-ev.com/1802.htm "Click this link") (MC). It comes in a compact attractive form factor supporting a 4 MHz 1802, up to 64K of RAM, serial I/O, and lots of switches and blinkenzee lights.  Supplied in kit format, it’s a fun build with an amazing amount of documentation, not to mention Lee Hart’s personal support to help you get things running if you have trouble.
 
@@ -51,3 +40,16 @@ So I’ve designed and built a PCB Raspberry PiZero W loader card that’s forma
 <li>Works with either front panel type or without any front panel
 <li>3.3v to 5v level conversion as needed
 </ol>
+
+
+<table> 
+    <tr>
+        <td>1802</td><td>4 MHz</td>
+    </tr>
+    <tr>
+        <td>Raspberry Pi</td><td>Wifi HDMI USB</td>
+    </tr>
+    <tr>
+        <td>Software</td><td>Loader Program</td>
+    </tr>
+</table>
